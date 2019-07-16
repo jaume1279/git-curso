@@ -10,7 +10,7 @@
 #-------------------------------------------------------------------------------
 
 def main():
-    print("Meme 2a Tungada")
+    print("Meme 3a Tungada")
 
 if __name__ == '__main__':
     main()
