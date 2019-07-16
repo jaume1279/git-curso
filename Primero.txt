@@ -1,4 +1,9 @@
 Numero 1
 More and more
 No more please
+<<<<<<< .merge_file_a16316
 linea para conflicto en master
+=======
+
+linea para conflicto en Branch1
+>>>>>>> .merge_file_a10728
